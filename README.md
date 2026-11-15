@@ -1,13 +1,23 @@
-# Lavi Sahu
+### Hi, I'm Lavi 👋
 
-- I work on supply-chain planning and build AI tools for it.
-- 14 years across SAP IBP, o9, Kinaxis, OMP and S&OP, in pharma cold chain, FMCG and energy.
-- I like designing with code and building new things with it.
-- Ask me about S&OP and IBP, Claude Code setups, or running AI models locally.
-- Reach me at [lavisahu.com](https://lavisahu.com), [LinkedIn](https://www.linkedin.com/in/lavisahu) or [X](https://x.com/simplylavi).
-- I also post on [Instagram](https://www.instagram.com/itssimplylavi/) and [YouTube](https://www.youtube.com/@Itssimplylavi).
+I work on supply-chain planning and build AI tools for it. 14 years across SAP IBP, o9, Kinaxis and OMP, in pharma cold chain, FMCG and energy. Ask me about S&OP and IBP, Claude Code setups, or running AI models locally.
 
-### Planning methods, runnable
+<p>
+<a href="https://lavisahu.com"><img alt="lavisahu.com" src="https://img.shields.io/badge/lavisahu.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lavisahu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white"></a>
+<a href="https://x.com/simplylavi"><img alt="X" src="https://img.shields.io/badge/@simplylavi-000000?style=flat-square&logo=x&logoColor=white"></a>
+<a href="https://www.instagram.com/itssimplylavi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+<a href="https://www.youtube.com/@Itssimplylavi"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+&nbsp;
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="SAP IBP" src="https://img.shields.io/badge/SAP_IBP-0FAAFF?style=flat-square&logo=sap&logoColor=white">
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+</p>
+
+<details>
+<summary><b>All projects and how I work</b></summary>
+
+#### Planning methods, runnable
 
 Each repository answers one business question with a named method and a synthetic dataset, and runs on a bare Python install with no dependencies.
 
@@ -19,7 +29,7 @@ Each repository answers one business question with a named method and a syntheti
 
 To judge one in ten minutes, read its `README`, then the walkthrough in `docs/`, then run `make demo` and open the dashboard.
 
-### AI tooling
+#### AI tooling
 
 | Repository | What it is |
 |---|---|
@@ -29,9 +39,11 @@ To judge one in ten minutes, read its `README`, then the walkthrough in `docs/`,
 | [design-library](https://github.com/LaviSahu/design-library) | 25 design style systems written to one spec with shared CSS tokens |
 | [localwispr-restored](https://github.com/LaviSahu/localwispr-restored) | Local push-to-talk voice dictation for Windows using Whisper |
 
-### How I work
+#### How I work
 
 - Every analysis states its assumptions and limits.
 - All data is synthetic and labelled synthetic. The analysis is AI-assisted.
 - Citations are real and checked, or marked unverified.
 - The same inputs give the same answer. Every run is seeded.
+
+</details>
