@@ -5,6 +5,7 @@
 - I like designing with code and building new things with it.
 - Ask me about S&OP and IBP, Claude Code setups, or running AI models locally.
 - Reach me at [lavisahu.com](https://lavisahu.com), [LinkedIn](https://www.linkedin.com/in/lavisahu) or [X](https://x.com/simplylavi).
+- I also post on [Instagram](https://www.instagram.com/itssimplylavi/) and [YouTube](https://www.youtube.com/@Itssimplylavi).
 
 ### Planning methods, runnable
 
