@@ -1,4 +1,4 @@
-<a href="https://lavisahu.com"><img src="assets/banner.svg" width="100%" alt="Lavi Sahu. Supply-chain planning practitioner. 14 years in SAP IBP, o9, Kinaxis and OMP."></a>
+<a href="https://lavisahu.com"><img src="assets/banner.svg" width="100%" alt="Lavi Sahu. Supply-chain planning practitioner. 14 years in SAP IBP, o9, Kinaxis and OMP. Builder, curious, AI enthusiast."></a>
 
 I build AI tools for supply-chain planning, across pharma cold chain, FMCG and energy. Ask me about S&OP and IBP, Claude Code setups, or running AI models locally.
 
